@@ -1,0 +1,4 @@
+Flask
+beem
+python-dotenv
+gunicorn
